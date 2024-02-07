@@ -15,13 +15,21 @@
 >SPRING SEMESTER
 >
 &square;  **CS101**   *Dr.Clint Pazhayidam George* [cs101](https://clintpgeorge.github.io/cs-101/autumn-2021/)
+
 &square; **MA101**   *Dr.Sandipan De*,*Shiv Parsad*
+
 &square; **ME101** *Dr.Priyabrata Sahoo*
+
 &square;**PH101** *Dr.Sudipta*,*Santosh Kumar Das*
+
 &square; **CH101** *Dr. E. Siva Subramaniam Iyer*
+
 &square; **CH102** *Dr.Raja Mitra*,*Dr. Rishikesh Narayan*
+
 &square;**ELPP**  *Neeraja Raghavan*
+
 &square; **HS101** *Dr. Sabiha Hashami*
+
 &square;**NO101** *Santhosh*
 
 
